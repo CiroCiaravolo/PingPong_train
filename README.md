@@ -82,22 +82,16 @@ Heuristic-based approach:
 
 ---
 
-## 📌 Authors
-
-👤 Ciro Ciaravolo – 1938321
-👤 Guglielmo Felici – 1706240
 
 ---
 
 ## 💻 How to Run
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/tuo-username/pingpong-scene-understanding.git
-   cd pingpong-scene-understanding
-   ```
-2. Open the notebook in **Google Colab** or Jupyter.
+
+
+   
+2. Open the notebook in **Google Colab** or Jupyter. https://colab.research.google.com/drive/1VII8W3w9ePBmQU-SBSyb8C7Ai38HC76N?usp=sharing
 3. Train the YOLO model with provided dataset or your own.
 4. Run the interpolation script for ball tracking.
 
