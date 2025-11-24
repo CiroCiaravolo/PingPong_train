@@ -91,7 +91,7 @@ Heuristic-based approach:
 
 
    
-2. Open the notebook in **Google Colab** or Jupyter. https://colab.research.google.com/drive/1VII8W3w9ePBmQU-SBSyb8C7Ai38HC76N?usp=sharing
+2. Open the notebook in **Google Colab** or Jupyter. https://colab.research.google.com/drive/1tRM0ee0IM94lHsl1ajLS6pIgpNwlwNkL?usp=sharing&authuser=3#scrollTo=GN-j5Q-CXxu2
 3. Train the YOLO model with provided dataset or your own.
 4. Run the interpolation script for ball tracking.
 
